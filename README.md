@@ -16,7 +16,7 @@
   <img align="center" alt="ricardobertolin-CPlusPlus" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="ricardobertolin-CSharp" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="ricardobertolin-Python" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="center" alt="ricardobertolin-OpenCV" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
   <img align="center" alt="ricardobertolin-Arduino" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="ricardobertolin-RaspberryPi" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg" />
 </div>
