@@ -12,7 +12,6 @@
 ## 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="ricardobertolin-C" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="ricardobertolin-CPlusPlus" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="ricardobertolin-CSharp" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="ricardobertolin-Python" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
