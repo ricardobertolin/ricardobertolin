@@ -9,7 +9,6 @@
 </div>
 
 -->
-## 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="ricardobertolin-CPlusPlus" height="30" width="40" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
@@ -23,11 +22,15 @@
 
 ##
 
-<div>
-<a href="https://www.linkedin.com/in/ricardo-bertolin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:ricardo_bertolin@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-  </div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ricardo-bertolin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ricardo_bertolin@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ricardobertolin&style=for-the-badge" alt="Profile views" />
+</p>
 
 <!--
 **ricardobertolin/ricardobertolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
