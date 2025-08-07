@@ -1,4 +1,4 @@
-### 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 🔧
+### 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" alt="Loading Mona GIF" width="40"/> 
 
 ##
 
